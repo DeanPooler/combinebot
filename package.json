@@ -1,0 +1,23 @@
+{
+  "name": "combinebot",
+  "version": "1.0.0",
+  "description": "A Discord bot for the Combine Network discord server",
+  "main": "combinebot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeanPooler/combinebot.git"
+  },
+  "author": "Dean Pooler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeanPooler/combinebot/issues"
+  },
+  "homepage": "https://github.com/DeanPooler/combinebot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "rcon-client": "^4.2.3"
+  }
+}
