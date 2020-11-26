@@ -1,3 +1,5 @@
 /node_modules
-config.json
+config/config.json
+config/rcon.json
+config/roles.json
 package-lock.json
